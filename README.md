@@ -1,5 +1,10 @@
 ## Bem-vindo(a) ao perfil do Kawan Teles 😁
 
+<div>
+   <a href="https://github.com/KawanTeles">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KawanTeles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanTeles&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
  
     
 <div style="display: inline_block"><br>
